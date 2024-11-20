@@ -1,0 +1,6 @@
+<resources>
+   <string name="expo_splash_screen_resize_mode" translatable="false">native</string>
+   <string name="app_name">scaniing</string> 
+   <string name="facebook_app_id">421027463993875</string>
+   <string name="facebook_client_token">a36a2efff3226e53c056f0a4f2dd7af3</string>
+</resources>
