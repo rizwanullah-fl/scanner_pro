@@ -59,12 +59,12 @@ android {
     }
 
   signingConfigs {
-       debug {
-          keyAlias 'my-key-alias'
-          keyPassword '123456'
-          storeFile file('upload-key.keystore')
-          storePassword '123456'
-       }
+    //    debug {
+    //       keyAlias 'my-key-alias'
+    //       keyPassword '123456'
+    //       storeFile file('upload-key.keystore')
+    //       storePassword '123456'
+    //    }
    }
    buildTypes {
         debug {

@@ -17,7 +17,6 @@ import 'package:multiple_image_camera/camera_file.dart';
 import 'package:multiple_image_camera/multiple_image_camera.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:provider/provider.dart';
-import 'package:scanner/camera_page/camera_page.dart';
 import 'package:scanner/management/controller/google_signin.dart';
 import 'package:scanner/management/provider_folder.dart';
 import 'package:scanner/management/provider_image.dart';

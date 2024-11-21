@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:persistent_bottom_nav_bar/persistent_tab_view.dart';
-import 'package:scanner/camera_page/camera_page.dart';
 import 'package:scanner/main.dart';
 import 'package:scanner/scanned_images_folder/camera.dart';
 import 'package:scanner/scanned_images_folder/scan_folder.dart';

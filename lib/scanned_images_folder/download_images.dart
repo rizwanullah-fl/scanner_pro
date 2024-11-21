@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:image_gallery_saver/image_gallery_saver.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:pro_image_editor/pro_image_editor_main.dart';
+import 'package:pro_image_editor/modules/main_editor/main_editor.dart';
 import 'package:provider/provider.dart';
 import 'package:image/image.dart' as img;
 import 'package:flutter/services.dart';
