@@ -25,14 +25,14 @@ With Provider for state management and built on the Flutter framework, Scanner P
 ---
 
 ### **2. Scanning Interface**
-<img width="1675" alt="Screenshot 2024-11-21 at 3 59 13 PM" src="https://github.com/user-attachments/assets/261c3447-0314-47e0-a71d-673372203eb4">
+![Document Preview](https://github.com/user-attachments/assets/db704e76-c6a3-44aa-ae99-bfd92cc967f5)
+
 
 
 ---
 
 ### **3. Document Preview**
-![Document Preview](https://github.com/user-attachments/assets/db704e76-c6a3-44aa-ae99-bfd92cc967f5)
-
+<img width="1675" alt="Screenshot 2024-11-21 at 3 59 13 PM" src="https://github.com/user-attachments/assets/261c3447-0314-47e0-a71d-673372203eb4">
 ---
 
 ### **4. Conversion Options**
