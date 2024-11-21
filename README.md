@@ -25,7 +25,7 @@ With Provider for state management and built on the Flutter framework, Scanner P
 ---
 
 ### **2. Scanning Interface**
-![Document Preview](https://github.com/user-attachments/assets/db704e76-c6a3-44aa-ae99-bfd92cc967f5)
+![image](https://github.com/user-attachments/assets/0e422eb4-45e7-429a-b3f4-2419c38e2932)
 
 
 
