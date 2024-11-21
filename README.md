@@ -16,7 +16,7 @@ With Provider for state management and built on the Flutter framework, Scanner P
 - **Seamless Conversions**: Easily convert documents between formats (PDF, Image, Text).
 - **Signature Support**: Add signatures to scanned documents with ease.
 - **Optimized Performance**: Built with Flutter and Provider for exceptional speed and reliability.
-- 
+  
 ## Screenshots
 
 ### **1. Home Screen**
@@ -47,7 +47,7 @@ With Provider for state management and built on the Flutter framework, Scanner P
 
 ## Technical Details
 
-- **Framework**: Flutter
+- **Framework**: Flutter,Dart
 - **State Management**: Provider
 - **Supported Platforms**: Android & iOS
 - **Backend (Optional)**: Firebase (if applicable)
