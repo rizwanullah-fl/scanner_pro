@@ -50,4 +50,3 @@ With Provider for state management and built on the Flutter framework, Scanner P
 - **Framework**: Flutter,Dart
 - **State Management**: Provider
 - **Supported Platforms**: Android & iOS
-- **Backend (Optional)**: Firebase (if applicable)
