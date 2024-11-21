@@ -40,7 +40,7 @@ With Provider for state management and built on the Flutter framework, Scanner P
 ---
 
 ### **5. Adding Signatures**
-![Conversion Options](https://github.com/user-attachments/assets/6dba76f3-a0cc-4988-b900-7832c104cab5)
+<img width="1675" alt="Screenshot 2024-11-21 at 3 55 33 PM" src="https://github.com/user-attachments/assets/a143e128-a2f6-48b8-b1e5-5576c4fb8385">
 
 ---
 
